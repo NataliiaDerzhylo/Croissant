@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: bisque;
+}
+footer {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
